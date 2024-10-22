@@ -1,0 +1,2 @@
+# PrepPal
+PrepPal is a project targeted towards college students who do not have the time or money to prioritize a healthy lifestyle. PrepPal will take a users dietary restrictions, budget and time restrictions into account and search a database to create a specialized meal prep plan that they can use. We will include other features such as a grocery list with all your ingredients and nutritional info to help guide and assist our users through their health journey.
